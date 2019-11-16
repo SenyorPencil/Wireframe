@@ -1,0 +1,80 @@
+h1 {
+    margin: 5px;
+    text-align: center;
+    font-size: 36px;
+    background-color:white;
+    padding: 5px;
+}
+
+nav {
+    margin: 5px;
+    text-align: center;
+    padding: 15px;
+    background-color: white;
+    font-size: 24px;
+}
+footer {
+    margin: 10px;
+    width: 1024px;
+    height: fit-content;
+    text-align: center;
+}
+
+aside {
+    margin: 5px;
+    width: 47%;
+    text-align: center;
+    padding: 10px;
+    background-color: white;
+    float:right;
+    position: relative;
+    height: 226px;
+}
+
+section {
+    margin: 5px;
+    padding: 10px;
+    background-color: white;
+    float: left;
+    width: 47%;
+    text-align: center;
+    position: relative;
+
+}
+
+
+
+
+footer {
+    margin: 5px;
+    padding: 10px;
+    width: auto;
+    background-color: white;
+    text-align: center;
+    clear: both;
+    content: "";
+}
+
+body {
+    background-color: #777;
+    /* padding: 15px; */
+}
+
+.article {
+    margin-bottom: 5px;
+    padding: 10px;
+    background-color: #777;
+    height: 40px;
+    display: block;
+}
+
+.hs {
+    height: 30px;
+    background-color: #777;
+}
+
+.p2 {
+    background-color: #777;
+    height: 30px;
+    margin-top: 5px;
+}
